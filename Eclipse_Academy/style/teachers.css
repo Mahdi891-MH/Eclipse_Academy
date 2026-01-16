@@ -1,0 +1,51 @@
+.t_container {
+    margin-top: 50px;
+    max-width: 980px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    margin: 100px auto;
+    row-gap: 40px;
+}
+
+.t_container .teacher {
+    width: 270px;
+    background: #5e5b94;
+    border-radius: 10px;
+    overflow: hidden;
+    color: #fff;
+    box-shadow: 0 0 5px #5b5e63;
+    font-size: 16px;
+}
+
+.t_container .teacher .t_pic {
+    width: 270px;
+}
+
+.t_container .teacher .bio {
+    padding: 15px;
+    text-align: justify;
+}
+
+.t_container .teacher .bio .name {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width: 1000px) {
+    .t_container {
+        grid-template-columns: repeat(2, 1fr);
+        max-width: 620px;
+    }
+
+    .t_container .teacher:last-child {
+        grid-column: 1/-1;
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .t_container {
+        grid-template-columns: 1fr;
+    }
+}
