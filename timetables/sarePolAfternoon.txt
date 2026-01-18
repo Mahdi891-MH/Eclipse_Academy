@@ -1,0 +1,35 @@
+Prime,	M.Qasim Taban,	1-2 PM,	New
+Standard 3,	Ali Ahmad Mohammadi,	1-2 PM,	New
+Plus,	Soraia Ahmadi,	1-2 PM,	Middle
+Special Speaking & Grammar,	Rahmatullah Rezaie,	1-2 PM,	New
+Vision B,	Jawid Rahimi & Rahmatullah Rezaie,	1-2 PM,	New
+Standard 1,	Hassan Hashemi,	1-2 PM,	New
+TOEFL,	Jawid Rahimi & Rahmatullah Rezaie,	1-2 PM,	New
+FST,	Mohsin Faizi,	1-2 PM,	New
+Plus,	Marzia Karimi,	2-3 PM,	New
+Private Class,	M.Qasim Taban,	2-3 PM,	Middle
+Standard 2,	Marzia Karimi,	2-3 PM,	New
+Vision C,	Jawid Rahimi & Rahmatullah Rezaie,	2-3 PM,	Middle
+English Discussion,	Reza Farahmand,	2-3 PM,	New
+Pro,	Enayatullah Amiri,	2-3 PM,	New
+Special Speaking,	Ahmad Shirzad,	2-3 PM,	New
+Prime,	Fatima Hamta,	3-4 PM,	New
+Vision B,	Jawid Rahimi & Emran Omid,	3-4 PM,	New
+Doulingo,	Reza Farahmand,	3-4 PM,	New
+Special Grammar,	Hassan Hashemi,	3-4 PM,	New
+Pro,	Enayatullah Amiri,	3-4 PM,	New
+Standard 2,	Mohsin Faizi,	3-4 PM,	Middle
+Writing,	M.Qasim Taban,	3-4 PM,	New
+Standard 1,	Hassan Hashemi,	4-5 PM,	New
+TOEFL,	Jawid Rahimi & Rahmatullah Rezaie,	4-5 PM,	New
+Plus,	Freshta Karimi,	4-5 PM,	Middle
+Standard 3,	Soraia Ahmadi,	4-5 PM,	New
+Pro,	Fatima Hamta,	4-5 PM,	New
+Special Grammar,	Jawid Rahimi,	4-5 PM,	New
+Vision A,	Emran Omid & Reza Farahmand,	4-5 PM,	New
+FST,	Mohsin Faizi,	5-6 PM,	New
+Standard 1,	Fatima Hamta,	5-6 PM,	New
+Vision A,	Rahmatullah Rezaie & Emran Omid,	5-6 PM,	Middle
+Standard 2,	Hassan Hashemi,	5-6 PM,	New
+Teacher Training,	Jawid Rahimi,	5-6 PM,	New
+Grammar,	Ali Ahmad Mohammadi,	5-6 PM,	New
