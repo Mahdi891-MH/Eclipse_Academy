@@ -2,7 +2,7 @@
 document.getElementsByClassName("hide")[0].addEventListener("click", hide)
 counter = 0;
 
-// show and hide navbar
+// show and hide menu
 
 function hide() {
     if (counter % 2 == 0) {
