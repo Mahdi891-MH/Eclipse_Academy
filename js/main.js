@@ -1,6 +1,9 @@
 
 document.getElementsByClassName("hide")[0].addEventListener("click", hide)
 counter = 0;
+
+// show and hide navbar
+
 function hide() {
     if (counter % 2 == 0) {
         document.getElementById("navbar").style.display = "block";
@@ -14,4 +17,5 @@ function hide() {
 
     counter++;
 }
+
 
