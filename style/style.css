@@ -450,7 +450,7 @@ main>.container {
 
 @media screen and (max-width: 440px) {
     .main_header h1 {
-        font-size: 20px;
+        font-size: 26px;
     }
 
     main>.container {
