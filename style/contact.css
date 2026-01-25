@@ -5,6 +5,7 @@
     color: #efecec;
     text-align: left;
     line-height: 30px;
+    padding: 0 40px;
 }
 
 .c_container p {
@@ -19,6 +20,7 @@
     .c_container {
         margin: 100px 20px;
         font-size: 16px;
+        padding: 0;
     }
 
     .c_container ul li i {
